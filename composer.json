@@ -1,5 +1,5 @@
 {
-    "name"              : "thewulf7/wikipedia",
+    "name"              : "thewulf7/yii2-wikipedia",
     "description"       : "Yii component to connect with Wikipedia",
     "authors"           : [
         {
