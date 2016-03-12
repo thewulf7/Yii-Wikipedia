@@ -12,6 +12,16 @@ Begin by installing this package through Composer.
 }
 ```
 
+```php
+    'components' => [
+        ...
+        'wikipedia' => [
+            'class' => 'thewulf7\Wikipedia\Connection'
+        ]
+        ...
+    ]
+```
+
 ### Usage
 
 **Retrieve page extract**
